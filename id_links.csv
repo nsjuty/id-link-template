@@ -38,3 +38,19 @@ https://www.idigbio.org/portal/records/7cd2e2f0-d54c-4215-8c3d-ad5da1adbf56,refe
 http://portal.vertnet.org/o/mnhn/ra?id=0_742,refers,http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742
 http://research.amnh.org/vz/herpetology/amphibia/Amphibia/Anura/Bufonidae/Sclerophrys/Sclerophrys-capensis->MNHNP 0.742
 https://peerj.com/articles/1553/,refers,http://coldb.mnhn.fr/catalognumber/mnhn/ra/0.742
+http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09, refers, sample id 07-SRNP-16635
+http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09, refers, field id 07-SRNP-16635
+http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09, refers, museum code 07-SRNP-16635
+http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09, deposited in, research collection of DH janzen and Hallwachs
+http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09, refers, http://www.ncbi.nlm.nih.gov/nuccore/GU653095
+http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09, refers, sequence id MHMYD1908-09.COI-5P
+http://www.ncbi.nlm.nih.gov/nuccore/GU653095, refers, bioproject id http://www.ncbi.nlm.nih.gov/bioproject/PRJNA37833
+http://www.ncbi.nlm.nih.gov/nuccore/GU653095, refers, organism http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=829952
+http://www.ncbi.nlm.nih.gov/nuccore/GU653095, refers, process id http://www.boldsystems.org/connectivity/specimenlookup.php?processid=MHMYD1908-09.COI-5P
+http://www.ncbi.nlm.nih.gov/nuccore/GU653095, refers, specimen voucher=personal:DHJanzen:07-SRNP-16635
+http://www.ncbi.nlm.nih.gov/bioproject/PRJNA37833, refers, *publication http://www.ncbi.nlm.nih.gov/pubmed/26175299 
+http://www.ncbi.nlm.nih.gov/bioproject/PRJNA37833, refers, ID: 37833
+http://www.ncbi.nlm.nih.gov/bioproject/PRJNA37833, refers, ID: 37833
+http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09,refers,  http://bins.boldsystems.org/index.php/Public_BarcodeCluster?clusteruri=BOLD:AAA0102
+http://bins.boldsystems.org/index.php/Public_BarcodeCluster?clusteruri=BOLD:AAA0102, refers, http://bins.boldsystems.org/index.php/Public_SearchTerms?query=BOLD:AAA0102
+http://bins.boldsystems.org/index.php/Public_SearchTerms?query=BOLD:AAA0102, refers, *(many)http://bins.boldsystems.org/index.php/Public_RecordView?processid=MHMYD1908-09
